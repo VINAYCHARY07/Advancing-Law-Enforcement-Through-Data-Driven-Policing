@@ -1,4 +1,5 @@
-# 🚔  Advancing Law Enforcement Through Data-Driven Policing  
+# 🚔  Advancing Law Enforcement Through Data-Driven Policing
+DIRECT GRADUATE PROJECT 2 @ Northwest Missouri State University
 
 ## 📝 Description
 This project,  focuses on advancing law enforcement through data-driven analysis of traffic stop data. Utilizing the power of PySpark, we dive deep into the nuances of gender disparities, search practices, stop durations, and age-related patterns to foster fair practices and enhance public safety.
@@ -34,5 +35,4 @@ To get this project up and running on your local machine, follow these steps:
    ```bash    
    git clone https://github.com/yourusername/project-insight.git
    cd project-insight
-# Advancing-Law-Enforcement-Through-Data-Driven-Policing
-DIRECT GRADUATE PROJECT 2 @ Northwest Missouri State University
+
