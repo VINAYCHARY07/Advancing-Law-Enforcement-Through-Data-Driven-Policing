@@ -34,3 +34,5 @@ To get this project up and running on your local machine, follow these steps:
    ```bash    
    git clone https://github.com/yourusername/project-insight.git
    cd project-insight
+# Advancing-Law-Enforcement-Through-Data-Driven-Policing
+DIRECT GRADUATE PROJECT 2 @ Northwest Missouri State University
